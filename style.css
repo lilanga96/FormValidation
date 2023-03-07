@@ -1,0 +1,21 @@
+.container .form .input_field {
+    margin-bottom: 15px;
+    display: flex;
+    align-content: center;
+
+}
+
+.container {
+    margin-left: 3%;
+}
+
+.container .form .input_field label {
+    width: 120px;
+
+
+}
+
+.button {
+    margin-left: 12%;
+
+}
